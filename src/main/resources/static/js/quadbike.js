@@ -1,5 +1,5 @@
-var urlBaseQuadbike = "http://localhost:8080/api/Quadbike";
-var urlBaseCategory = "http://localhost:8080/api/Category";
+var urlBaseQuadbike = "http://150.136.58.216:8080/api/Quadbike";
+var urlBaseCategory = "http://150.136.58.216:8080/api/Category";
 $(document).ready(getQuadbike);
 $(document).ready(autoInicio);
 

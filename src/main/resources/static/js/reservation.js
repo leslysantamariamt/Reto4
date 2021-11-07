@@ -1,6 +1,6 @@
-var urlBaseClient = "http://localhost:8080/api/Client";
-var urlBaseQuadbike = "http://localhost:8080/api/Quadbike";
-var urlBaseReservation = "http://localhost:8080/api/Reservation";
+var urlBaseClient = "http://150.136.58.216:8080/api/Client";
+var urlBaseQuadbike = "http://150.136.58.216:8080/api/Quadbike";
+var urlBaseReservation = "http://150.136.58.216:8080/api/Reservation";
 $(document).ready(getReservation);
 function getReservation() {
     $("#info").removeAttr("style");

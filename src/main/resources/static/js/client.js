@@ -1,5 +1,5 @@
-var urlBaseClient = "http://localhost:8080/api/Client";
-var urlBaseQuadbike = "http://localhost:8080/api/Quadbike";
+var urlBaseClient = "http://150.136.58.216:8080/api/Client";
+var urlBaseQuadbike = "http://150.136.58.216:8080/api/Quadbike";
 
 $(document).ready(getClient);
 
